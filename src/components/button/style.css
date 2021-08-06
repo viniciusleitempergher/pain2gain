@@ -1,0 +1,8 @@
+.button {
+    display: block;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.1rem;
+    padding: 8px 15px;
+    background: rgb(37, 141, 211);
+    border-radius: 8px;
+}

@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&family=Roboto:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -38,4 +38,8 @@ body {
 #root {
     display: flex;
     flex: 1;
+}
+
+p {
+    font-size: 1.2rem;
 }

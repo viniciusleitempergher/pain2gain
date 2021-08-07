@@ -1,5 +1,7 @@
 .button {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-family: 'Ubuntu', sans-serif;
     font-size: 1.1rem;
     padding: 8px 15px;

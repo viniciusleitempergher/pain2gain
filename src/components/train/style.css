@@ -1,0 +1,22 @@
+.list__item {
+    grid-column: 1 / 4;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-width: 250px;
+    background: rgb(61, 61, 61);
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.list__item__p + .list__item__p {
+    margin-top: 10px;
+}
+
+.list__item__p-nome {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}

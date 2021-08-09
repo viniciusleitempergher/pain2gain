@@ -27,6 +27,11 @@ export function Login() {
                         <i className="fab fa-google" /> Login com google
                     </Button>
                 </div>
+                <div className="login__form__button login__form__button-cadastrar">
+                    <Button>
+                        <i className="fas fa-keyboard" />Cadastrar-se
+                    </Button>
+                </div>
             </div>
         </div>
     )

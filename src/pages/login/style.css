@@ -36,6 +36,15 @@
     background: rgb(223, 75, 70);
 }
 
+.login__form__button-cadastrar {
+    margin-top: 40px;
+}
+
+.login__form__button-cadastrar .button {
+    background-color: rgb(122, 224, 109);
+    color: rgb(65, 65, 65);
+}
+
 .login__form__input {
     padding: 7px;
     outline: none;

@@ -6,7 +6,7 @@ export function Home() {
         <div className="home">
             <Navbar />
             <main>
-
+                
             </main>
         </div>
     )

@@ -10,7 +10,7 @@ export function Navbar() {
             </div>
             <div className="navbar__letstrain">
                 <Button>
-                    Treinar
+                    Treinos
                 </Button>
             </div>
         </nav>

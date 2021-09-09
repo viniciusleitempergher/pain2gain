@@ -3,7 +3,8 @@
     flex-direction: row;
     flex: 1;
     background-color: rgb(56, 56, 56);
-    max-height: 100px;
+    min-height: 80px;
+    max-height: 120px;
     align-items: center;
     justify-content: space-evenly;
 }

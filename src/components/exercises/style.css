@@ -1,0 +1,9 @@
+.exercises__list, .exercises__list td, .exercises__list th {
+    padding: 3px;
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+.exercises__list {
+    border-radius: 100px;
+}

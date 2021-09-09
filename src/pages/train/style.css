@@ -4,3 +4,15 @@
     flex: 1;
 }
 
+.button-start {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    align-items: stretch;
+    position: absolute;
+    bottom: 40px;
+}
+
+.button-start > a {
+    max-width: 200px;
+}

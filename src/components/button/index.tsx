@@ -1,15 +1,15 @@
-import React, { ReactNode } from 'react'
+import { ReactNode } from 'react'
 import './style.css'
 
 type Props = {
-    children: ReactNode,
-    
+    children: ReactNode;
+    href?: string;
 }
 
-export function Button({ children }: Props) {
+export function Button(props: Props) {
     return (
-        <a href="#a" className="button">
-            {children}
+        <a className="button" href={props.href}>
+            {props.children}
         </a>
     )
 }
